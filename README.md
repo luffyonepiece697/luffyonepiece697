@@ -137,8 +137,8 @@ I’m particularly interested in:
 # 🤝 Connect With Me
 
 📧 Email: luffyonepiece697@gmail.com  
-💼 LinkedIn: [your-linkedin](https://www.linkedin.com/in/maheshwar-pilli14)  
-💻 Portfolio: [your-portfolio](https://maheshwar-pilli.vercel.app/)  
+💼 LinkedIn: [maheshwar-pilli](https://www.linkedin.com/in/maheshwar-pilli14)  
+💻 Portfolio: [maheshwar-pilli](https://maheshwar-pilli.vercel.app/)  
 🐙 GitHub: https://github.com/luffyonepiece697
 
 ---
